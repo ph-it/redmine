@@ -1,0 +1,7 @@
+--- 
+prefix: /redmine_test
+log_file: log/mongrel_test.log
+port: "3010"
+environment: test
+pid_file: tmp/pids/mongrel_test.pid
+servers: 1
